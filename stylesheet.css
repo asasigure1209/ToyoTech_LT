@@ -1,0 +1,59 @@
+body {
+    color: #4D4D4D;
+}
+
+.hero {
+    background-image: url(./photo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: "Yu Gothic UI";
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+h2 {
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+h3 {
+    font-size: 24px;
+    letter-spacing: 2px;
+}
+
+.toyotechlt {
+    color: rgb(0, 184, 245);
+}
+
+#logo {
+    max-height: 450px;
+}
+
+#logo-column {
+    text-align: center;
+}
+
+.maker {
+    background: linear-gradient(transparent 70%, #ffae00b9 0%);
+}
+
+.description {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.footer {
+    background-color: #4D4D4D;
+}
+
+#computerculb {
+    color: white;
+}
+
+#computerculb-logo {
+    height: 74px;
+}
